@@ -5,10 +5,7 @@
 
 body {
     background-color: rgb(204, 157, 248);
-<<<<<<< Updated upstream
-=======
 
->>>>>>> Stashed changes
 }
 
 main {
@@ -16,5 +13,5 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px, 3px, 5px rgba(0, 0, 0, 0.473);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
